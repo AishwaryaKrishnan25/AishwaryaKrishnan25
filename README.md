@@ -4,11 +4,8 @@
 **Aspiring Full Stack Developer | Hands-On Experience in Java, SQL, Spring, Hibernate & Web Technologies | I build scalable web applications and solve real-world problems through end-to-end development.**
 
 ## 📑 Certifications :
-- Java FullStack from [![JSpiders](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](https://ibb.co/z35D76P)
-- Microsoft Excel from Beginner to Advanced level certificate from [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=plastic&logo=Udemy&logoColor=white)](https://www.udemy.com/certificate/UC-8e39a134-97cc-4241-abe4-415ab69166ae/)
-- Google Data Analyst Certificate from [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=plastic&logo=Coursera&logoColor=white)](https://coursera.org/share/dfd790e19f6b89974c3925e1642ab470)
-- SQL (Basic and Intermediate) skill certification with SQL 5⭐(Gold Badge) from ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=plastic&logo=HackerRank&logoColor=black)
-- Certification for completing the Data Visualisation course at Anudip Foundation Skill and Career Development Centre at KAAFW.
+- Java FullStack from Jspiders [![JavaFullStack](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](https://i.ibb.co/Hc23xhG/java-Certificate.png)
+- Full Stack Development(.Net with Angular) from Loginware Softtec Pvt Ltd [![FullStackWeb](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](https://i.ibb.co/gLR1PF8j/Internship-Certificate-Angular.jpg)
 
 
 ## 🌐 Socials:
@@ -20,10 +17,10 @@
 ## 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=hibernate&logoColor=fff)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)
 
