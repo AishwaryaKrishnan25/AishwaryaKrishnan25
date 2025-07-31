@@ -4,8 +4,8 @@
 **Aspiring Full Stack Developer | Hands-On Experience in Java, SQL, Spring, Hibernate & Web Technologies | I build scalable web applications and solve real-world problems through end-to-end development.**
 
 ## 📑 Certifications :
-- Java FullStack from Jspiders [![JavaFullStack](https://img.shields.io/badge/JavaFullStack-%23ED8B00.svg?logo=openjdk&logoColor=white)](https://i.ibb.co/Hc23xhG/java-Certificate.png)
-- Full Stack Development(.Net with Angular) from Loginware Softtec Pvt Ltd [![FullStackWeb](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](https://i.ibb.co/gLR1PF8j/Internship-Certificate-Angular.jpg)
+- Java FullStack from Jspiders [![JSpiders](https://img.shields.io/badge/JSpiders-%23ED8B00.svg?logo=openjdk&logoColor=white)](https://i.ibb.co/Hc23xhG/java-Certificate.png)
+- Full Stack Development(.Net with Angular) from Loginware Softtec Pvt Ltd [![Loginware](https://img.shields.io/badge/Loginware-white?&logo=codepen&logoColor=black)](https://i.ibb.co/gLR1PF8j/Internship-Certificate-Angular.jpg)
 
 
 ## 🌐 Socials:
